@@ -1,0 +1,11 @@
+﻿#opalennja
+/_tmp/*
+#!/system/storage/cache/index.html
+#/admin/somefile.txt
+# sublime-project
+*.sublime-project
+*.sublime-workspace
+#config.php
+#.htaccess*
+#*.sql
+#/image/catalog
